@@ -2,17 +2,17 @@
 @font-face {
     font-family: 'Montserrat';
     font-weight: 800;
-    src: url("/fonts/Montserrat/Montserrat-ExtraBold.ttf");
+    src: url("fonts/Montserrat/Montserrat-ExtraBold.ttf");
 }
 
 @font-face {
     font-family: 'PT_Sans';
-    src: url("/fonts/PT_Sans/PTSans-Regular.ttf");
+    src: url("fonts/PT_Sans/PTSans-Regular.ttf");
 }
 
 @font-face {
     font-family: 'Lato';
-    src: url("/fonts/Lato/Lato-Regular.ttf");
+    src: url("fonts/Lato/Lato-Regular.ttf");
 }
 
 body {
@@ -114,7 +114,7 @@ body {
 
 .modal__logo {
     position: relative;
-    background-image: url("/img/Ellipse\ 44.png");
+    background-image: url("img/Ellipse\ 44.png");
     background-repeat: no-repeat;
     background-position: center;
 }
@@ -128,7 +128,7 @@ body {
     right: 50px;
     width: 36px;
     height: 36px;
-    background-image: url("/img/icon/Group\ 2394.svg");
+    background-image: url("img/icon/Group\ 2394.svg");
     background-repeat: no-repeat;
     cursor: pointer;
 }
@@ -167,7 +167,7 @@ body {
     bottom: 57px;
     width: 29px;
     height: 29px;
-    background-image: url("/img/icon/Vector.svg");
+    background-image: url("img/icon/Vector.svg");
     background-repeat: no-repeat;
 }
 
@@ -201,7 +201,7 @@ body {
     appearance: none;
     -webkit-appearance: none;
       -moz-appearance: none;
-    background-image: url("/img/icon/Group.svg");
+    background-image: url("img/icon/Group.svg");
     background-repeat: no-repeat;
     background-position: right 2% center;
     cursor: pointer;
@@ -229,27 +229,27 @@ body {
 }
 
 .site {
-    background-image: url("/img/icon/global\ 1.svg");
+    background-image: url("img/icon/global\ 1.svg");
 }
 
 .vk {
-    background-image: url("/img/icon/vk\ 1.svg");
+    background-image: url("img/icon/vk\ 1.svg");
 }
 
 .ok {
-    background-image: url("/img/icon/odnoklassniki\ 3.svg");
+    background-image: url("img/icon/odnoklassniki\ 3.svg");
 }
 
 .fb {
-    background-image: url("/img/icon/Icon.svg");
+    background-image: url("img/icon/Icon.svg");
 }
 
 .inst {
-    background-image: url("/img/icon/Instagram_Color_icon-icons.com_71811\ 1.svg");
+    background-image: url("img/icon/Instagram_Color_icon-icons.com_71811\ 1.svg");
 }
 
 .youtb {
-    background-image: url("/img/icon/youtube\ 2.svg");
+    background-image: url("img/icon/youtube\ 2.svg");
 }
 
 .hide {
