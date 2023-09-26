@@ -38,5 +38,5 @@ file.addEventListener('change', function(){
 });
 
 cancelUpload.addEventListener('click', function() {
-    image.src = "/img/Ellipse 44.png";
+    image.src = "img/Ellipse 44.png";
 })
